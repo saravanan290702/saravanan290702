@@ -1,7 +1,7 @@
 # saravanan290702
 <h1 align="center">Hi There, I'm Saravanan Chandiran</h1>
 
-- 🔭 I’m currently learning **Machine Learning and Game Development using Unity and Unreal Engine**
+- 🔭 I’m currently learning **Machine Learning and Game Development using Unreal Engine**
 
 
 - 📫 How to reach me **saravanan072002@gmail.com**
