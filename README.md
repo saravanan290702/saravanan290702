@@ -7,8 +7,9 @@
 </h1>
 
 ### Talking about Personal Stuff:
-- 📫 How to reach me **saravanan072002@gmail.com**
+- 👾 What Do I like? well, Making games and playing them ofc ;)
 - 🛠 &nbsp; I’m currently working with Python, Java, C++, Android, Flutter, Unreal Engine etc.
+- 📫 How to reach me **saravanan072002@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
