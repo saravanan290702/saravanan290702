@@ -28,7 +28,7 @@
 </a>
 &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan290702&layout=compact&theme=radical&langs_count=8&card_width=270" alt="saravanan290702" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan290702&layout=compact&theme=radical&langs_count=8&card_width=290" alt="saravanan290702" />
 </a>
 
 #
