@@ -6,8 +6,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72F2F&width=435&lines=Exploring+Machine+and+Deep+Learning!;Delving+into+Game+Development!!;Pursuing+App+Development+Expertise!!!" alt="Typing SVG" /></a>
 </h1>
 
+### Talking about Personal Stuff:
 - 📫 How to reach me **saravanan072002@gmail.com**
-
+- 🛠 &nbsp; I’m currently working with Python, Java, C++, Android, Flutter, Unreal Engine etc.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Saravanan290702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Saravanan290702" height="30" width="40" /></a>
