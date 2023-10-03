@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello+there%2C+Saravanan+Here........;Glad+you+are+here" alt="Typing SVG" /></a>
 # saravanan290702
 <h1 align="center">Hi There, I'm Saravanan Chandiran</h1>
 
