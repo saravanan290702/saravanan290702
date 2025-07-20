@@ -8,7 +8,7 @@
 
 ### Talking about Personal Stuff:
 - 👾 What Do I like? well, Making games and playing them ofc ;)
-- 🛠 &nbsp; I’m currently working with Python, Java, C++, Android, Flutter, Unreal Engine etc.
+- 🛠 &nbsp; I’m currently working with Python, Java, C++, Android, Unreal Engine etc.
 - 📫 How to reach me **saravanan072002@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
